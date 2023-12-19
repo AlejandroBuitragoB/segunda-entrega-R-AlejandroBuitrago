@@ -7,7 +7,7 @@ import NavBar from "./componentes/NavBar/NavBar";
 const App = () => {
   return (
     <div>
-      <BrowserRouter>
+      <BrowserRouter basename="/segunda-entrega-R-AlejandroBuitrago">
       <NavBar/>
       <Routes>
 
